@@ -2,7 +2,7 @@
 
 **`Desenvolvedora`**
 
-Meu nome é Isabelle, tenho 18 anos e estou cursando o ensino médio e o curso técnico em Desenvolvimento de Sistemas pelo SENAI. Sou apaixonada por tecnologia e adoro descobrir como as coisas funcionam. Estou sempre em busca de aprender, evoluir e colocar em prática o que estudo. Aqui compartilho meus projetos, ideias e aprendizados na área de TI.
+Meu nome é Isabelle, tenho 18 anos e estou cursando o curso técnico em Desenvolvimento de Sistemas pelo SENAI. Sou apaixonada por tecnologia e adoro descobrir como as coisas funcionam. Estou sempre em busca de aprender, evoluir e colocar em prática o que estudo. Aqui compartilho meus projetos, ideias e aprendizados na área de TI.
 
 ##
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/isabelleabreuu/)
