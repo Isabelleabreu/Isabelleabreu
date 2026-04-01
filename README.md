@@ -72,26 +72,23 @@ Meu nome é Isabelle, tenho 18 anos e estou cursando o curso técnico em Desenvo
 
 ---
 
-<p>
+<div align="left">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api?username=Isabelleabreu&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    alt="GitHub Stats" 
   />
-
   <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleabreu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelleabreu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    alt="Top Languages" 
   />
+</div>
 
-</p>
+<br/>
 
-<picture align="center">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isabelleabreu/isabelleabreu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isabelleabreu/isabelleabreu/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/isabelleabreu/isabelleabreu/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isabelleabreu/isabelleabreu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/isabelleabreu/isabelleabreu/output/github-contribution-grid-snake.svg">
 </picture>
